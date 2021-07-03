@@ -6,5 +6,8 @@ Utlize deep learning convolution neural network to train a model to classify dog
 ### Disclaimer ###
 
 Reference: Murtaza Workshop
+Only accuracy of 80%, will improve it in the future.
+
+Code only for personal learning purposes.
 
 
